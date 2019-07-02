@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+/* for navbar */
+.navbar {
+  width: 100vw;
+  height: 50px;
+}
+
+.navbar ul {
+  display: flex;
+}
